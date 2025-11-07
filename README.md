@@ -38,6 +38,14 @@ Smart desktop controller (scroll, volume, app switch)
 Data-sending IoT node with HID fallback
 
 
+### Notes
+
+BLE HID and Smart modes cannot be active simultaneously — switch as needed.
+
+Smart mode uses a simple key:value text protocol.
+
+No external storage or UART required.
+
 
 ### Credits
 
